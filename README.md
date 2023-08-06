@@ -1,2 +1,2 @@
-# simulations-natural-sciences
-A collection of deterministic simulations tackling different problems of the natural sciences.
+# simulations-in-biology
+An introductory insight into deterministic ODE and stochastic simulation applied to biological problems
